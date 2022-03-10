@@ -3,6 +3,7 @@
 【标题】91porn【标题】
 【链接】http://91porn.com/index.php【链接】
 【js】
+
 //13:04-51
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
 JsHDued(`document.getElementsByClassName("cont6")[4].setAttribute("style","display:none");`);
@@ -15,6 +16,10 @@ JsHDued(`document.getElementById("footer-container").setAttribute("style","displ
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
 JsHDued(`document.getElementById("useraction").setAttribute("style","display:none");`);
 JsHDued(`document.getElementsByClassName("videodetails-yakov")[1].setAttribute("style","display:none");`);
+//13:22-32
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("top-nav")[0].setAttribute("style","display:none");`);
+
 【js】
 :end}
 
