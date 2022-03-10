@@ -46,6 +46,10 @@ JsHDued(`document.getElementsByClassName("atop")[0].setAttribute("style","displa
 JsHDued(`document.getElementsByClassName("atop")[1].setAttribute("style","display:none");`);
 JsHDued(`document.getElementsByClassName("footer_center")[0].setAttribute("style","display:none");`);
 
+//18:37-48
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("comments")[0].setAttribute("style","display:none");`);
+
 【js】
 :end}
 
