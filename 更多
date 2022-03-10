@@ -80,6 +80,11 @@ JsHDued(`document.getElementById("respond").setAttribute("style","display:none")
 【图片】https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgDukPC2NrEgM1mZwJ9qBgaKdy9ttB3Kt-aQ&usqp=CAU【图片】
 【标题】177漫画【标题】
 【链接】http://www.177picyy.com/【链接】
+【js】
+//19:26-38
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("page").style.marginTop="-140.0px";`);
+【js】
 :end}
 
 {start:
