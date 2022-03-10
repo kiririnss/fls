@@ -2,6 +2,14 @@
 【图片】https://apklust.com/logos/91porn-apk.jpg【图片】
 【标题】91porn【标题】
 【链接】http://91porn.com/index.php【链接】
+【js】//13:04-51
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("cont6")[4].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("cont6")[3].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("cont6")[2].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("cont6")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("cont3").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("footer-container").setAttribute("style","display:none");`);【js】
 :end}
 
 {start:
