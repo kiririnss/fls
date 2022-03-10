@@ -57,6 +57,17 @@ JsHDued(`document.getElementsByClassName("comments")[0].setAttribute("style","di
 【图片】https://idanmu.net/2021/09/77b53df4041a0.jpg【图片】
 【标题】ISEKAI【标题】
 【链接】https://isekai.ch/【链接】
+【js】
+//18:42-01
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("row")[3].setAttribute("style","display:none");`);
+
+//18:44-54
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("list-group list-group-flush")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("row")[5].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("respond").setAttribute("style","display:none");`);
+【js】
 :end}
 
 {start:
