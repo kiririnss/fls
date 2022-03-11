@@ -150,6 +150,26 @@ JsHDued(`document.getElementById("sp_search_head").setAttribute("style","display
 【图片】https://www.hanime.xyz/images/website/1.webp?1639658213【图片】
 【标题】H动漫网【标题】
 【链接】https://www.hanime.xyz/【链接】
+【js】
+//00:54-26
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("navbar navbar-expand-lg navbar-dark bg-dark mb-2 py-1 px-1 px-md-3")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("footer mb-5 mt-3")[0].setAttribute("style","display:none");`);
+
+//00:58-46
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("links").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("row links")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("mt-3")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("row p-1")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("div")[168].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("row links")[2].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("span")[159].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("bottom-ads").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("at-share-dock").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("footer mb-5 mt-3")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("addthis_inline_share_toolbox my-1")[0].setAttribute("style","display:none");`);
+【js】
 :end}
 
 
