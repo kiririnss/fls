@@ -121,6 +121,10 @@ JsHDued(`document.getElementById("sp_top_head").setAttribute("style","display:no
 JsHDued(`document.getElementById("sp_top_middle").setAttribute("style","display:none");`);
 JsHDued(`document.getElementById("sp_top_footer").setAttribute("style","display:none");`);
 
+//00:42-02
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("sp_search_head").setAttribute("style","display:none");`);
+
 【js】
 :end}
 
