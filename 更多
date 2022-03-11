@@ -108,6 +108,20 @@ JsHDued(`document.getElementsByClassName("donate")[0].setAttribute("style","disp
 【图片】https://animember.net/files/thumbs/92353.jpg【图片】
 【标题】动画成员【标题】
 【链接】https://animember.net/【链接】
+【js】
+//00:36-43
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("sp_cont_head").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("sp_cont_middle").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("sp_cont_footer").setAttribute("style","display:none");`);
+
+//00:37-53
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("sp_top_head").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("sp_top_middle").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("sp_top_footer").setAttribute("style","display:none");`);
+
+【js】
 :end}
 
 {start:
