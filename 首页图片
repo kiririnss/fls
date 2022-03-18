@@ -277,22 +277,15 @@ JsHDued(`document.getElementById("clickdownload").setAttribute("style","display:
 
 
 【d7js】
-//01:23-47
+//03:00-16
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementsByClassName("gg_js")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("g1_wz")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("header")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("ft_lm")[1].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("swiper-slide source_item source_item_default")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("g1_wz")[1].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("ft_wz")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("h5midicbanner").setAttribute("style","display:none");`);
-
-//01:26-48
-var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementsByTagName("a")[19].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByTagName("p")[7].setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("clickdownload").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pure-g")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pure-u-1 w90 bbox")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pure-g")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pure-u-1 abox pure-u-lg-hidden")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pure-u-1 copyright bbox tcert lhgt")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pure-g btf tcert lhgt distable")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pure-u-1 w90 abox")[0].setAttribute("style","display:none");`);
 【d7js】
 
 
