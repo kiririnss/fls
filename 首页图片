@@ -38,27 +38,165 @@ JsHDued(`document.getElementById("tabComments_bottom_page").setAttribute("style"
 
 
 【z2js】
+//14:53-27
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("adContainer clearfix")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("bottomNav clearfix")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("mobileHeader").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("countryRedirectMessage").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("js-mainFooter")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("adContainer clearfix ad-tabSplit")[0].setAttribute("style","display:none");`);
+//14:53-27
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("adContainer clearfix")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("bottomNav clearfix")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("mobileHeader").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("countryRedirectMessage").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("js-mainFooter")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("adContainer clearfix ad-tabSplit")[0].setAttribute("style","display:none");`);
 
+//14:57-35
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("clearfix")[12].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("clearfix")[16].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("js-crowdSripts").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("clearfix")[25].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("topAdContainter")[0].setAttribute("style","display:none");`);
 【z2js】
 
 
 【z3js】
+//04:08-40
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("header").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("x-home-messages").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("footer").setAttribute("style","display:none");`);
 
+//04:09-30
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("ad-footer").setAttribute("style","display:none");`);
+
+//04:10-33
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("ad-header-mobile-contener").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("metadata-row video-metadata")[0].setAttribute("style","display:none");`);
+
+//04:13-41
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("content-ad-top-zone-contener").setAttribute("style","display:none");`);
 【z3js】
 
 
 【z4js】
+//04:34-55
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("billboard-modal").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("modal-backdrop fade in")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("owl-carousel partial-view owl-loaded owl-drag")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("top-nav")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("row")[19].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("row")[14].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("m-b-5")[13].setAttribute("style","display:none");`);
 
+//04:41-22
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("container")[4].style.marginTop="-85.0px";`);
+
+//04:48-02
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("Comic_Top_Nav").style.marginTop="-180.0px";`);
+JsHDued(`document.getElementsByClassName("fas fa-times")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("bot-per-times")[0].click();`);
+JsHDued(`document.getElementsByClassName("bot-per-times")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("bot-per-context d18912-2_43")[0].style.marginTop="-80.0px";`);
+JsHDued(`document.getElementsByTagName("a")[1748].style.marginTop="70.0px";`);
+JsHDued(`document.getElementsByTagName("img")[210].style.marginTop="200.0px";`);
+JsHDued(`document.getElementsByClassName("bot-per-context d18912-2_43")[0].setAttribute("style","display:none");`);
+
+//04:53-33
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("row")[11].setAttribute("style","display:none");`);
+
+//04:56-30
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("d18912-2_43")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("atstbx").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("addthis_inline_share_toolbox")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("d18912-2_43")[1].setAttribute("style","display:none");`);
 【z4js】
 
 
 【z5js】
+//04:32-10
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByTagName("img")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("img")[2].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("sh")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("img")[32].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("img")[31].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("img")[31].setAttribute("style","display:none");`);
 
+//04:33-51
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("header")[0].setAttribute("style","display:none");`);
+
+//04:34-48
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("sh")[0].setAttribute("style","display:none");`);
 【z5js】
 
 
 【z6js】
+//13:59-28
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("main-nav").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("div")[145].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("hidden-sm hidden-md hidden-lg")[3].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("div")[509].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("div")[515].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("hidden-sm hidden-md hidden-lg")[4].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("div")[517].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("hentai-footer")[0].setAttribute("style","display:none");`);
 
+//14:01-07
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByTagName("h3")[1].setAttribute("style","display:none");`);
+
+//14:02-07
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("hidden-sm hidden-md hidden-lg")[2].setAttribute("style","display:none");`);
+//14:15-34
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("mobile-ad").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("reportBtn").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("shareBtn").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("downloadBtn").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("single-icon-wrapper")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("video-like-form-wrapper").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("hidden-md hidden-lg")[3].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("more-related-ad").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("main-nav").setAttribute("style","display:none");`);
+//14:15-34
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("mobile-ad").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("reportBtn").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("shareBtn").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("downloadBtn").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("single-icon-wrapper")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("video-like-form-wrapper").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("hidden-md hidden-lg")[3].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("more-related-ad").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("main-nav").setAttribute("style","display:none");`);
+
+//14:20-49
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("search-top-nav-mobile").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("div")[164].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("search-nav-wrapper").setAttribute("style","display:none");`);
+
+//18:53-56
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByTagName("div")[92].setAttribute("style","display:none");`);
 【z6js】
 
 
