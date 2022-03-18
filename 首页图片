@@ -201,22 +201,63 @@ JsHDued(`document.getElementsByTagName("div")[92].setAttribute("style","display:
 
 
 【d1js】
+//20:48-03
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("col-auto header-right")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("col-auto col-md-2 justify-content-center p-0")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pb-3 pb-e-lg-40")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pb-3 pb-e-lg-40")[2].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pb-3 pb-e-lg-40")[4].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("h5 text-center")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("site-footer").setAttribute("style","display:none");`);
 
+//21:05-45
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByTagName("h6")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("text-center")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("new-comment")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("text-center mb-e-30")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("h5 text-center")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("site-footer").setAttribute("style","display:none");`);
 【d1js】
 
 
 【d2js】
-
+//20:19-35
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByTagName("font")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("sup")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("tbody")[2].setAttribute("style","display:none");`);
 【d2js】
 
 
 【d3js】
-
+//20:30-13
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("branding").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("post-2958").setAttribute("style","display:none");`);
 【d3js】
 
 
 【d4js】
-
+//21:35-27
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("ggjs").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("header")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("link")[2].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("link")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("li")[3].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("topicbanner").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("gg_sj")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("footer")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("suspend")[0].setAttribute("style","display:none");`);
+//21:42-20
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByTagName("header")[0].setAttribute("style","display:none");`);
+//21:44-44
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByTagName("a")[266].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("clickdownload").setAttribute("style","display:none");`);
 【d4js】
 
 
@@ -231,7 +272,22 @@ JsHDued(`document.getElementsByTagName("div")[92].setAttribute("style","display:
 
 
 【d7js】
+//01:23-47
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("gg_js")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("g1_wz")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("header")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("ft_lm")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("swiper-slide source_item source_item_default")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("g1_wz")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("ft_wz")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("h5midicbanner").setAttribute("style","display:none");`);
 
+//01:26-48
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByTagName("a")[19].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("p")[7].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("clickdownload").setAttribute("style","display:none");`);
 【d7js】
 
 
