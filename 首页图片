@@ -290,7 +290,25 @@ JsHDued(`document.getElementsByClassName("pure-u-1 w90 abox")[0].setAttribute("s
 
 
 【d8js】
+//03:12-42
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("lg_wz")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("logo")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("gg_tp topicac")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("t_post_a01").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("gg_wz")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("gg_tp listmidic midicac")[0].click();`);
+JsHDued(`document.getElementsByClassName("gg_tp listmidic midicac")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("gg_tp footicac")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("ft_xx")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("navbar-fixed-bottom bottom_nav")[0].setAttribute("style","display:none");`);
 
+//03:13-56
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+
+
+//03:13-52
+document.getElementsByClassName("gg_tp midicac")[0].setAttribute("style","display:none");
 【d8js】
 
 
