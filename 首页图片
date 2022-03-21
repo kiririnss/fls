@@ -146,7 +146,9 @@ JsHDued(`document.getElementsByClassName("sh")[0].setAttribute("style","display:
 //01:54-55
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
 JsHDued(`document.getElementsByTagName("img")[16].setAttribute("style","display:none");`);
-
+//01:57-35
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByTagName("div")[11].setAttribute("style","display:none");`);
 【z5js】
 
 
