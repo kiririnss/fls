@@ -143,6 +143,10 @@ JsHDued(`document.getElementsByClassName("header")[0].setAttribute("style","disp
 //04:34-48
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
 JsHDued(`document.getElementsByClassName("sh")[0].setAttribute("style","display:none");`);
+//01:54-55
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByTagName("img")[16].setAttribute("style","display:none");`);
+
 【z5js】
 
 
