@@ -140,15 +140,6 @@ JsHDued(`document.getElementsByTagName("img")[31].setAttribute("style","display:
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
 JsHDued(`document.getElementsByClassName("header")[0].setAttribute("style","display:none");`);
 
-//04:34-48
-var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementsByClassName("sh")[0].setAttribute("style","display:none");`);
-//01:54-55
-var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementsByTagName("img")[16].setAttribute("style","display:none");`);
-//01:57-35
-var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementsByTagName("div")[11].setAttribute("style","display:none");`);
 【z5js】
 
 
