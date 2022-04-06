@@ -172,7 +172,8 @@ JsHDued(`document.getElementsByTagName("div")[260].setAttribute("style","display
 //16:13-06
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
 JsHDued(`document.getElementsByClassName("hidden-md hidden-lg")[2].style.marginTop="-30.0px";`);
-
+//17:10-25
+document.getElementsByClassName("hidden-sm hidden-md hidden-lg")[4].setAttribute("style","display:none");
 【z6js】
 
 
