@@ -144,56 +144,35 @@ JsHDued(`document.getElementsByClassName("header")[0].setAttribute("style","disp
 
 
 【z6js】
-//13:59-28
+//16:03-31
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementById("main-nav").setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByTagName("div")[145].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("hidden-sm hidden-md hidden-lg")[3].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByTagName("div")[509].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByTagName("div")[515].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("hidden-sm hidden-md hidden-lg")[4].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByTagName("div")[517].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("main-nav-home").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("div")[10].style.marginTop="-100.0px";`);
+JsHDued(`document.getElementsByClassName("hidden-sm hidden-md hidden-lg")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("hidden-sm hidden-md hidden-lg")[2].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("div")[766].setAttribute("style","display:none");`);
 JsHDued(`document.getElementsByClassName("hentai-footer")[0].setAttribute("style","display:none");`);
 
-//14:01-07
+//16:05-49
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementsByTagName("h3")[1].setAttribute("style","display:none");`);
-
-//14:02-07
-var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementsByClassName("hidden-sm hidden-md hidden-lg")[2].setAttribute("style","display:none");`);
-//14:15-34
-var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementById("mobile-ad").setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("reportBtn").setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("shareBtn").setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("downloadBtn").setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("single-icon-wrapper")[1].setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("video-like-form-wrapper").setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("hidden-md hidden-lg")[3].setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("more-related-ad").setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("main-nav").setAttribute("style","display:none");`);
-//14:15-34
-var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementById("mobile-ad").setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("reportBtn").setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("shareBtn").setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("downloadBtn").setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("single-icon-wrapper")[1].setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("video-like-form-wrapper").setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("hidden-md hidden-lg")[3].setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("more-related-ad").setAttribute("style","display:none");`);
-JsHDued(`document.getElementById("main-nav").setAttribute("style","display:none");`);
-
-//14:20-49
-var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementById("search-top-nav-mobile").setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByTagName("div")[164].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("hidden-sm hidden-md hidden-lg")[8].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("hidden-sm hidden-md hidden-lg")[1].setAttribute("style","display:none");`);
 JsHDued(`document.getElementById("search-nav-wrapper").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("hentai-form").style.marginTop="-90.0px";`);
+JsHDued(`document.getElementsByClassName("hidden-sm hidden-md hidden-lg")[11].setAttribute("style","display:none");`);
 
-//18:53-56
+//16:08-22
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementsByTagName("div")[92].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("mobile-ad").setAttribute("style","display:none");`);
+
+//16:12-28
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByTagName("div")[260].setAttribute("style","display:none");`);
+
+//16:13-06
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("hidden-md hidden-lg")[2].style.marginTop="-30.0px";`);
+
 【z6js】
 
 
