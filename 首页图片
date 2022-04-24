@@ -253,6 +253,20 @@ JsHDued(`document.getElementById("clickdownload").setAttribute("style","display:
 
 
 【d6js】
+//02:24-47
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("ads")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("ads")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("p")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("footer")[0].setAttribute("style","display:none");`);
+
+//02:25-35
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("search")[0].setAttribute("style","display:none");`);
+
+//02:27-40
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("comment-post-container").setAttribute("style","display:none");`);
 
 【d6js】
 
