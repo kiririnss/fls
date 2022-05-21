@@ -248,7 +248,27 @@ JsHDued(`document.getElementById("clickdownload").setAttribute("style","display:
 
 
 【d5js】
+//15:43-14
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("pull-right")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("navbar-header")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("search_form").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("col-md-4 col-sm-5")[0].setAttribute("style","display:none");`);
 
+//15:55-37
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("adxp").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("alert alert-dismissable alert-danger")[1].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("alert alert-dismissable alert-danger")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("ps32-container").setAttribute("style","display:none");`);
+
+//15:58-09
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByClassName("footer-container")[0].setAttribute("style","display:none");`);
+
+//16:00-20
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementsByTagName("div")[111].setAttribute("style","display:none");`);
 【d5js】
 
 
