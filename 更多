@@ -204,6 +204,10 @@ JsHDued(`document.getElementsByClassName("navbar-brand py-1 px-1")[0].setAttribu
 JsHDued(`document.getElementsByClassName("footer mb-5 mt-3")[0].setAttribute("style","display:none");`);
 JsHDued(`document.getElementById("at-share-dock").setAttribute("style","display:none");`);
 
+//02:31-34
+function loadJs(path,callback){var header=document.getElementsByTagName("head")[0];var script=document.createElement('script');script.setAttribute('src',path);header.appendChild(script);if(!/*@cc_on!@*/false){script.onload=function(){callback();}}else{script.onreadystatechange=function(){if(script.readystate=="loaded" ||script.readState=='complate'){callback();}}}}
+ 
+var i = document.createElement("div");i.innerText = "提示:请勿相信站内的任何广告！";;i.setAttribute("id", "insert_elemen_25text");var e = document.getElementsByClassName("navbar-brand py-1 px-1")[0];e.parentNode.insertBefore(i,e.previousSibling);
 【js】
 :end}
 
