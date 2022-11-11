@@ -292,15 +292,38 @@ JsHDued(`document.getElementById("comment-post-container").setAttribute("style",
 
 
 【d7js】
-//03:00-16
+
+//00:59-51
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementsByClassName("pure-g")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("pure-u-1 w90 bbox")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("pure-g")[1].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("pure-u-1 abox pure-u-lg-hidden")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("pure-u-1 copyright bbox tcert lhgt")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("pure-g btf tcert lhgt distable")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("pure-u-1 w90 abox")[0].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("oQ2xqrOil6Enwyc").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("tpdhf3x3bmcwf7i").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("xikyzhw1vjo492").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("w0o18bbgi7d49v").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("zPL7QidYe2nx").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("pg726pkf5dwx").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pure-u-1 abox")[4].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pure-u-1 abox")[6].setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByClassName("pure-u-1 abox")[8].setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("TlcmISFLvVeMt7R").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("ctxiy7q4mqgjx9c").setAttribute("style","display:none");`);
+
+//01:01-34
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("QJPw6gmoeEqY").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("svgeo153pe").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("27SFrAeXbxG4oKd").setAttribute("style","display:none");`);
+
+//01:03-26
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("pfLCNkUm1ou6K8B").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("owT8LdtNEaO32pK").setAttribute("style","display:none");`);
+
+//01:04-57
+var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
+JsHDued(`document.getElementById("3lfQRuXNh1cb").setAttribute("style","display:none");`);
+JsHDued(`document.getElementById("fdnioLVZ5uU4MDJ").setAttribute("style","display:none");`);
+JsHDued(`document.getElementsByTagName("a")[144].setAttribute("style","display:none");`);
+
 【d7js】
 
 
