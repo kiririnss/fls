@@ -34,12 +34,14 @@ JsHDued(`document.getElementsByClassName("navbar navbar-inverse navbar-fixed-top
 【图片】https://app.noy.asia/favicon.ico【图片】
 【标题】NoyAcg【标题】
 【链接】https://web.noy.asia/【链接】
+【简介】【简介】
 :end}
 
 {start:
 【图片】https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0TB1-rDiCKX-nA97KhGdu2SycrJ86VEMwQ&usqp=CAU【图片】
 【标题】AsmHentai【标题】
 【链接】https://asmhentai.com/【链接】
+【简介】【简介】
 【js】
 //16:37-41
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
@@ -58,6 +60,7 @@ JsHDued(`document.getElementsByClassName("comments")[0].setAttribute("style","di
 【图片】https://isekai.ch/favicon.ico【图片】
 【标题】ISEKAI【标题】
 【链接】https://isekai.ch/【链接】
+【简介】【简介】
 【js】
 //18:42-01
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
@@ -75,12 +78,14 @@ JsHDued(`document.getElementById("respond").setAttribute("style","display:none")
 【图片】https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxVWtT9sN8m5u59S8AVIlBiKdDhMomGouYfw&usqp=CAU【图片】
 【标题】nhentai【标题】
 【链接】https://nhentai.net/【链接】
+【简介】【简介】
 :end}
 
 {start:
 【图片】https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgDukPC2NrEgM1mZwJ9qBgaKdy9ttB3Kt-aQ&usqp=CAU【图片】
 【标题】177漫画【标题】
 【链接】http://www.177picyy.com/【链接】
+【简介】【简介】
 【js】
 //19:26-38
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
@@ -92,6 +97,7 @@ JsHDued(`document.getElementById("page").style.marginTop="-140.0px";`);
 【图片】https://cdn.jsdelivr.net/gh/acgboxlink/acgbox/favicon/hitomi.la_.png【图片】
 【标题】hitomi【标题】
 【链接】https://hitomi.la/【链接】
+【简介】【简介】
 【js】
 //00:19-41
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
@@ -109,6 +115,7 @@ JsHDued(`document.getElementsByClassName("donate")[0].setAttribute("style","disp
 【图片】https://animember.net/files/thumbs/92353.jpg【图片】
 【标题】动画成员【标题】
 【链接】https://animember.net/【链接】
+【简介】【简介】
 【js】
 //00:36-43
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
@@ -133,6 +140,7 @@ JsHDued(`document.getElementById("sp_search_head").setAttribute("style","display
 【图片】https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKo6OzAs_-TZFpXtw38fBkCHZCe-AWnt0_0A&usqp=CAU【图片】
 【标题】笑看日本【标题】
 【链接】https://laughseejapan.com/【链接】
+【简介】【简介】
 :end}
 
 {start:
@@ -145,12 +153,14 @@ JsHDued(`document.getElementById("sp_search_head").setAttribute("style","display
 【图片】https://fikfap.com/favicon-32x32.png【图片】
 【标题】FikFap【标题】
 【链接】https://fikfap.com/【链接】
+【简介】【简介】
 :end}
 
 {start:
 【图片】https://www.hanime.xyz/images/website/1.webp?1639658213【图片】
 【标题】H动漫网【标题】
 【链接】https://www.hanime.xyz/【链接】
+【简介】【简介】
 【js】
 //00:54-26
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
@@ -178,25 +188,15 @@ JsHDued(`document.getElementsByClassName("addthis_inline_share_toolbox my-1")[0]
 【图片】https://mydh.moyundh.vip/image/hht.png【图片】
 【标题】花海(待修)【标题】
 【链接】http://hh.hihi.pw/【链接】
-【js】//18:06-01
-var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementsByTagName("scrollamount=5")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("is-selected")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("mac_user")[0].setAttribute("style","display:none");`);
-JsHDued(`document.getElementsByClassName("visible-xs")[0].setAttribute("style","display:none");`);
-
-
-//18:11-24
-var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
-JsHDued(`document.getElementsByClassName("stui-vodlist__thumb active")[0].setAttribute("style","display:none");`);
-
-【js】
+【简介】【简介】
+【js】【js】
 :end}
 
 {start:
 【图片】https://qingse.one/icon/www.qingse.one.png【图片】
 【标题】情色【标题】
 【链接】https://qingse.one/【链接】
+【简介】【简介】
 【js】
 //02:17-56
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
@@ -218,4 +218,5 @@ document.getElementById("insert_elemen_17text").style.fontSize="20px";
 【图片】data:image/jpeg;base64,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【图片】
 【标题】待添加【标题】
 【链接】【链接】
+【简介】等待管理员添加【简介】
 :end}
