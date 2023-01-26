@@ -41,7 +41,7 @@ JsHDued(`document.getElementsByClassName("navbar navbar-inverse navbar-fixed-top
 【图片】https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0TB1-rDiCKX-nA97KhGdu2SycrJ86VEMwQ&usqp=CAU【图片】
 【标题】AsmHentai【标题】
 【链接】https://asmhentai.com/【链接】
-【简介】一个完全致力于发布日本色情漫画的网站，通常有 15 到 30 页，所以如果你想要快速手淫，那么你也可以快速浏览这些页面，但如果您想赞美这些“色情”艺术家所制作的细致性感图画，您不妨仔细研究这些单幅图像。【简介】
+【简介】一个完全致力于发布日本色情漫画的网站，如果你想要快速手淫，那么你也可以快速浏览这些页面，但如果您想赞美这些“色情”艺术家所制作的细致性感图画，您不妨仔细研究这些单幅图像。【简介】
 【js】
 //16:37-41
 var JsHDued=function(v){try {new Function(v)();} catch(e) {setTimeout(function (){JsHDued(v);},100);};};
